@@ -105,4 +105,31 @@ I'm open to connecting with developers, engineers, recruiters, and technology pr
 
 🏢 **OghamLab GitHub:** https://github.com/oghamlab
 
+
+
+### 🎵 Frontis — Music & Audio Application
+
+**Status:** Published on Google Play
+
+A native Android application featuring music playback,
+recording, and on-device audio processing.
+
+**Technologies:** Kotlin, Android SDK, Media3/ExoPlayer
+
+[📲 View Frontis on Google Play](YOUR_FRONTIS_PLAY_STORE_URL)
+
+---
+
+### 📰 FiveThirtyEight — News & Analytics Application
+
+**Status:** Published on Google Play
+
+An Android news application featuring curated news feeds,
+background synchronization, and local data persistence.
+
+**Technologies:** Kotlin, Jetpack Compose, Room, WorkManager
+
+[📲 View FiveThirtyEight on Google Play](YOUR_FIVETHIRTYEIGHT_PLAY_STORE_URL)
+
+
 Thanks for visiting my profile!
