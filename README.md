@@ -116,7 +116,7 @@ recording, and on-device audio processing.
 
 **Technologies:** Kotlin, Android SDK, Media3/ExoPlayer
 
-[📲 View Frontis on Google Play](YOUR_FRONTIS_PLAY_STORE_URL)
+[📲 View Frontis on Google Play](https://play.google.com/store/apps/details?id=com.ola.frontis&pcampaignid=web_share)
 
 ---
 
@@ -129,7 +129,7 @@ background synchronization, and local data persistence.
 
 **Technologies:** Kotlin, Jetpack Compose, Room, WorkManager
 
-[📲 View FiveThirtyEight on Google Play](YOUR_FIVETHIRTYEIGHT_PLAY_STORE_URL)
+[📲 View FiveThirtyEight on Google Play](https://play.google.com/store/apps/details?id=com.ola.fivethirtyeight&pcampaignid=web_share)
 
 
 Thanks for visiting my profile!
